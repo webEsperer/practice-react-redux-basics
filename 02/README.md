@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React i Redux: Podstawy #02
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e06-react-redux-basics` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#02` React i Redux: Podstawy
+
 
 Twoim zadaniem jest utworzenie Magazynu (ang. Store), który będzie przechowywał wiadomość `Działa!` w `state` o nazwie `message`. 
 
@@ -12,4 +13,4 @@ Jeśli wykonasz swoje zadanie prawidłowo to na stronie powinien pojawić się k
 
 &nbsp;
 
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: [*poprzednie zadanie*](./../01) | [*następne zadanie*](./../03) :arrow_right:
