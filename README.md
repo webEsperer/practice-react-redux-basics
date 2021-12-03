@@ -1,15 +1,14 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # React i Redux: Podstawy
 
-Redux jest jednym z najpopularniejszych rozwiązań wspomagającym zarządzanie stanem w aplikacji. Nie musi to być koniecznie React. Umiejetność korzystania z tego rozwiązania jest bardzo dużym atutem podczas poszukiwan pracy jako React Developer.
+Redux jest jednym z najpopularniejszych rozwiązań wspomagających zarządzanie stanem w aplikacji – nie tylko w Reakcie. Umiejętność korzystania z niego jest bardzo dużym atutem podczas poszukiwania pracy jako React Developer.
 
-Sprawdź czy Twoja wiedza z tego zakresu jest wystarczająca do rozpoczęcia przygody z Redux na poziomie podstawowym.
+Sprawdź, czy Twoja wiedza z Reacta jest wystarczająca do rozpoczęcia przygody z Reduxem na poziomie podstawowym.
 
-Konfiguracja dla Webpack-a jest już przygotowana. Wystarczy zainstalować zależności wykorzystując komendę `npm i` oraz uruchomić Webpack-a przy pomocy: `npm start`. Całość powinna zostać działać pod adresem `http://localhost:8080`.
+Konfiguracja webpacka jest już przygotowana. Wystarczy zainstalować zależności za pomocą komendy `npm i` oraz uruchomić webpack przy pomocy `npm start`. Całość powinna pojawić się pod adresem `http://localhost:8080`.
 
 &nbsp;
 
