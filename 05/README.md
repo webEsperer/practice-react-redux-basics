@@ -4,11 +4,11 @@
 
 # `#05` React i Redux: Podstawy
 
-Najwyższy czas przenieść całą funkcjonalność do osobnych plików! 
+Najwyższy czas podzielić całą funkcjonalność na mniejsze pliki!
 
-Rozdziel deklarację Akcji czy Reduktora do oddzielnych plików. Możesz również Magazyn przenieść do osobnego pliku.
+Do osobnych plików przenieś Akcje oraz Reduktor. Możesz tak postąpić także z Magazynem.
 
-Jak juz to zrobisz dodaj jeszcze ostatnie rozwiązanie jakim będzie usuwanie wszysktich użytkowników ze stanu o nazwie `users` po kliknięciu w przycisk. 
+Po tych porządkach w kodzie dodaj jeszcze ostatnią funkcjonalność: usuwanie wszystkich użytkowników ze stanu (właściwość `users`) po kliknięciu w przycisk.
 
 &nbsp;
 
