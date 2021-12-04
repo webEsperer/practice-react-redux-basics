@@ -4,9 +4,9 @@
 
 # `#03` React i Redux: Podstawy
 
-Tym razem do naszego Magazynu dodamy kolejny element. Będzie to`state`, który przechowuje informacje o aktualnej dacie tj. `new Date()`. Jeśli wykonałeś prawidłowo poprzednie zadanie to odkomentowanie komponentu `<Task03 />` w `./src/components/App.js` nie powinno wywołać żadnego błędu. 
+Tym razem do naszego Magazynu dodamy kolejny element. Będzie to`state`, który przechowuje informacje o aktualnej dacie, tj. `new Date()`. Jeśli wykonałeś prawidłowo poprzednie zadanie, to odkomentowanie komponentu `<Task03 />` w `./src/components/App.js` nie powinno wywołać żadnego błędu. 
 
-Jeśli jeszcze tego nie zrobiłeś to teraz będzie najlepszy poment, aby utworzyć wartości początkowe dla naszego stanu (ang. state). Pamiętaj, że poprzednie zadaine również musi działać prawidłowo więc wartości początkowe powinny wyglądać mniej więcej w taki sposób:
+Jeśli jeszcze tego nie zrobiłeś, to teraz będzie odpowiedni moment, aby utworzyć wartości początkowe dla naszego stanu (ang. state). Pamiętaj, że poprzednie zadanie również musi działać prawidłowo, więc wartości początkowe powinny wyglądać mniej więcej w taki sposób:
 ```
 {
     message: 'Działa!',
@@ -14,11 +14,11 @@ Jeśli jeszcze tego nie zrobiłeś to teraz będzie najlepszy poment, aby utworz
 }
 ```
 
-Należy również zdefiniować odpowiedni reduktor (ang. Reducer), który wykonuje zmiany w naszym Magazynie. Zwróć uwagę, że mamy zdefiniowany `onClick` w pliku `./03/Task03.js`, który uruchamia akcję `getCurrentTime`. Jej zadaniem jest aktualizacja stanu o nazwie `time` przechowującą aktualną wartość tj. `new Date()`. Musimy obsłużyć tą akcję.
+Należy też zdefiniować odpowiedni reduktor (ang. Reducer), który wykonuje zmiany w naszym Magazynie. Zwróć uwagę, że w pliku `./03/Task03.js` mamy zdefiniowany `onClick`, który uruchamia akcję `getCurrentTime`. Jej zadaniem jest aktualizacja właściwości `time` przechowującej aktualną datę, tj. `new Date()`. Musimy obsłużyć tę akcję.
 
-Po każdym kliknięciu w przycisk `get current time` powinieneś zobaczyć informacje o aktualnej godzinie.
+Po każdym kliknięciu w przycisk `get current time` powinieneś zobaczyć informację o aktualnej godzinie.
 
-Na koniec podłacz do naszego Magazynu [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension) i przetestuj działania swojego rozwiązania.
+Na koniec podłącz do Magazynu [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension) i przetestuj działanie swojego rozwiązania.
 
 &nbsp;
 
