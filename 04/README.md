@@ -5,19 +5,19 @@
 # `#04` React i Redux: Podstawy
 
 
-Również tym razem musisz dodać kolejny element do `state`. W tym przypadku jest to właściwość `users`, która początkowo jest pustą tablicą.
+Tym razem również musisz dodać kolejny element do `state`. W tym przypadku to właściwość `users`, która początkowo jest pustą tablicą.
 
-Po każdym uzupełnieniu pola `<input>` należy dodać obiekt do wspomnianej tablicy, który będzie przechowywać nazwę użytkownika oraz id. Identyfikator ma być kolejnym największym numerem względem obecnie przechowywanych id.
+Po każdym uzupełnieniu pola `<input>` należy do tej tablicy dodać obiekt, który będzie przechowywać nazwę użytkownika oraz id. Identyfikator ma być kolejnym największym numerem względem obecnie przechowywanych id.
 
 W komponencie `UserList` należy zdefiniować obsługę dodawania kolejnych użytkowników oraz ich wyświetlanie. Zwróć uwagę, że to komponent klasowy i taki ma zostać. W ten sposób masz zaimplementować obsługę Magazynu.
 
-Drugi komponent to `UserItem`, który renderuje informacje o użytkowniku. Znajdziesz tam również `<button>` po kliknięciu, którego należy usunać ze `state` użytkownika o danym id. Tym razem mamy komponent funkcyjny, w którym należy użyć odpowiednich hooków.
+Drugi komponent to `UserItem`, który renderuje informacje o użytkowniku. Znajdziesz tam również `<button>`, po którego kliknięciu należy usunąć ze `state` użytkownika o danym id. Tym razem mamy komponent funkcyjny, w którym należy użyć odpowiednich hooków.
 
 Z opisu wynika, że będziemy potrzebować dwóch Akcji:
 - dodawanie kolejnego użytkownika
-- usuwanie wybranego użytkonika
+- usuwanie wybranego użytkownika.
 
-Uzupełnij nasze rozwiązanie o tą funkcjonalność. Pamiętaj o tworzeniu kopii dla aktualnego stanu i modyfikuj tylko niezbędne elementy. 
+Uzupełnij nasze rozwiązanie o tą funkcjonalność. Pamiętaj o tworzeniu kopii dla aktualnego stanu i modyfikowaniu tylko niezbędnych elementów. 
 
 &nbsp;
 
